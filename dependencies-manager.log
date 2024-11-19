@@ -1,0 +1,126 @@
+1730664620423:exit
+1730666766645:create
+1730666985140:exit
+1730667018321:create
+1730671621130:d
+1730909954730:searchArtifact n
+1730909972876:n n
+1730911292582:n spring-boot-starter
+1730911530243:n
+1730912360755:--help
+1730912363509:help
+1730912401626:search default --help
+1730912628939:search -d artfi
+1730912655931:search -d --tag spring
+1730912774876:search -d --tag
+1730912787207:search -d --tag s
+1730912891437:searchd --tag s
+1730912911222:-sd --artifact s --alias f
+1730913112343:help
+1730913122911:-sd help
+1730913136863:-sd --help
+1730913422517:@ShellMethod(key = {"searchd", "-sd"}, value = "Searches for a specific dependency based on the provided artifact, group, alias, or tag. " +
+1730913422540:public String searchDependency(
+1730913422623:}
+1730913430141:clear
+1730913443824:searchd --tag s
+1730913484027:-sd --tag s
+1730914319392:-sd --tag spring
+1730914401282:sd --alias boot
+1730914408787:-sd --alias boot
+1730914420290:-sd --alias spring-boot
+1730914571161:-sd --help
+1730914660515:--help
+1730914663546:help
+1730914712684:-sd --help
+1730915071726:searchd --tag boot
+1730915089613:-sd --alias boot
+1730935430112:help
+1730935729468:-d
+1730935829009:help
+1730935866737:searchd --alias spring-boot
+1730935869230:exit
+1730936015782:search -d --tag spring
+1730936017618:exit
+1730936145489:help
+1730936272307:search -d --help
+1730936282544:exit
+1730939713477:search -d
+1730939951301:search -d --tag spring
+1730993537376:exit
+1730993665958:s -d --alias boot
+1730993705259:exit
+1730993801430:search default --tag spring
+1730993804062:exit
+1731178500200:add dependency
+1731178516362:seach -d --tag database
+1731178540507:search -d --tag database
+1731201722095:save maven
+1731201722169:<dependency>
+1731201722177:<groupId>com.fasterxml.jackson.core</groupId>
+1731201722182:<artifactId>jackson-databind</artifactId>
+1731201722186:<version>2.18.1</version>
+1731430972297:a -d
+1731431008326:save -d
+1731462941711:search -d --group org.
+1731554584495:search -d --help
+1731554601720:exit
+1731694824153:search -d --tag spring
+1731694858080:search -d --alias spring-boot
+1731802852436:save -d
+1731802928428:search -d --alias spring-
+1731802949343:search -d --artifact spring-
+1731803513621:exit -
+1731803516966:exit
+1731803650198:search -m
+1731804348361:searsearch -m
+1731804352529:search -m
+1731805039181:search --group spring
+1731805073698:search -d --group spring
+1731806634776:search --artifac spring
+1731806651165:search --group spring
+1731817347242:save -d
+1731817386325:search --group spring
+1731817406852:search --group org.
+1731817444891:search --group org
+1731817539992:search -group org
+1731817549359:search --group org
+1731817558217:save -d
+1731817569381:search --group org.
+1731817672133:search --group org
+1731817677080:save -d
+1731817685269:search --group org
+1731817849443:save -d
+1731817857730:search --group org
+1731817993959:save -d
+1731818004585:search --group spring
+1731889890932:search -f
+1731939532596:search spring
+1731940030592:search spring org.
+1731940084212:search spring org
+1731940089104:save -d
+1731941122867:search spring .org
+1731941163950:save -d
+1731941389955:search spring
+1731941491830:search spring .org.spring
+1731971028739:search spring-boot-security
+1731971109325:search spring-boot-security .org.springfr
+1731971131660:search spring-boot org.spring
+1731971191022:search security org.springframework
+1731971459977:search spring-boot
+1731971511395:search spring-boot org.springframework.boot
+1731971533280:search spring org.springframework.boot
+1731971662291:search spring-boot-start org.springframework.boot
+1731971725766:search spring-boot-starter org.springframework.boot
+1731971738449:search spring-boot org.springframework.boot
+1731971765077:search security org.springframework.boot
+1731972273006:search spring-boot-started-security
+1731972300992:search spring-boot org.springframework.boot
+1731972342218:search spring-boot org.springframework
+1731972348882:search spring-boot org.springframework.securi
+1731972362343:search spring org.springframework.boot
+1731972527361:search spring-security-core org.springframework
+1731972586488:search spring-security-core
+1731972610868:search spring-security-
+1731972636625:spring spring- org.springframework.boot
+1731972658021:search spring- org.springframework.secu
